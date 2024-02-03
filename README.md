@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi! I'm Rodrigo Vaz! 👋
 
-<!--
-**rodrigogsvaz/rodrigogsvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📘 I am a petroleum engineer with masters in petroleum engineering and currently doing a PhD. Lately, I have been taking different university courses on machine learning and AI.
 
-Here are some ideas to get you started:
+- 🔭 For the last three years, I have been working as a data scientist in a private company. I mostly develop business solutions based on machine learning and optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m always willing to learning more about machine learning, AI, statistics, python, SQL, and other sciences and technologies that can improve a data scientist capacity to add value to people!
+
+- 📫Feel free to reach me out on linkedin 🙂
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigogsvaz/)
+
+
+
